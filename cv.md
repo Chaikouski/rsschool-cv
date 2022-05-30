@@ -86,6 +86,10 @@ function multiply(a, b){
 
 
 ### Education
+* 2004 – 2005 / Belarusian state university / Faculty of Advanced Studies in Applied Mathematics and Computer Science, BSU / Minsk, Belarus 1
+* 2010 – 2014 / Vitebsk state polytechnic college / Faculty of Information Technology Software / Programmer / Vitebsk, Belarus 2
+* 2016 – текущее время / Polotsk state university / Faculty of Information Technology Software / Polotsk, Belarus 3
+* 2019 / IT-Academy / Web development using HTML, CSS and JavaScript / Minsk, Belarus 4
 
 
 ### Language
