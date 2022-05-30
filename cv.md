@@ -32,7 +32,11 @@ I have good analytical skills. Easy to learn. I work well in a team.
 ---
 
 ### Code example:
-
+```
+function multiply(a, b){
+  return a * b
+}
+```
 
 ---
 
